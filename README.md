@@ -1,7 +1,7 @@
 ## 👋 About Me
 
-Hello, I’m **Liam Wang**, from the **University of New South Wales (UNSW)**.
+Hello, I’m **Harry Wang**, from the **University of New South Wales (UNSW)**.
 
-I’m interested in **backend development**, specializing in **Python** and **AI integration**.
+I’m interested in **Python** and **AI integration**.
 
-📧 Email: [1245314292@qq.com](mailto:your-email@example.com)
+📧 Email: [harry.wxl@qq.com](mailto:your-email@example.com)
